@@ -1,0 +1,15 @@
+/Users/GSumman/Code/Test1/bin/Debug/netcoreapp2.1/Test1.deps.json
+/Users/GSumman/Code/Test1/bin/Debug/netcoreapp2.1/Test1.runtimeconfig.json
+/Users/GSumman/Code/Test1/bin/Debug/netcoreapp2.1/Test1.runtimeconfig.dev.json
+/Users/GSumman/Code/Test1/bin/Debug/netcoreapp2.1/Test1.dll
+/Users/GSumman/Code/Test1/bin/Debug/netcoreapp2.1/Test1.pdb
+/Users/GSumman/Code/Test1/obj/Debug/netcoreapp2.1/Test1.csprojAssemblyReference.cache
+/Users/GSumman/Code/Test1/obj/Debug/netcoreapp2.1/Test1.csproj.CoreCompileInputs.cache
+/Users/GSumman/Code/Test1/obj/Debug/netcoreapp2.1/Test1.AssemblyInfoInputs.cache
+/Users/GSumman/Code/Test1/obj/Debug/netcoreapp2.1/Test1.AssemblyInfo.cs
+/Users/GSumman/Code/Test1/obj/Debug/netcoreapp2.1/Test1.dll
+/Users/GSumman/Code/Test1/obj/Debug/netcoreapp2.1/Test1.pdb
+/Users/GSumman/Code/Test1/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/GSumman/Code/Test1/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/GSumman/Code/Test1/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll
+/Users/GSumman/Code/Test1/bin/Debug/netcoreapp2.1/Mono.Cecil.dll
